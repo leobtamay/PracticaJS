@@ -17,7 +17,7 @@ if (Number.isInteger(i)) {
     } else if(i <= 9) {
         console.log("Bueno");
     } else if(i = 10){
-        console.log("Excelente!");
+        console.log("Excelente!!");
     }
     
 } else {
